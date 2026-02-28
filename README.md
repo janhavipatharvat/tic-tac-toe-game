@@ -31,7 +31,7 @@ It is an interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-[Click Here to Play](https://yourusername.github.io/PRODIGY_WD_03/)
+ https://janhavipatharvat.github.io/PRODIGY_WD_03/
 
 ---
 
