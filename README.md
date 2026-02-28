@@ -1,6 +1,6 @@
 # PRODIGY_WD_03
 
-## Tic Tac Toe Web Application
+## PRODIGY INFOTECH TASK3- Tic Tac Toe Web Application
 
 This project is developed as part of my Web Development Internship at Prodigy Infotech.
 
