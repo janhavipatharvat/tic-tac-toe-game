@@ -1,6 +1,4 @@
-# PRODIGY_WD_03
-
-## PRODIGY INFOTECH TASK3- Tic Tac Toe Web Application
+# Tic Tac Toe Web Application
 
 This project is developed as part of my Web Development Internship at Prodigy Infotech.
 
@@ -31,7 +29,7 @@ It is an interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
- https://janhavipatharvat.github.io/PRODIGY_WD_03/
+ https://janhavipatharvat.github.io/tic-tac-toe-game/
 
 ---
 
