@@ -1,7 +1,5 @@
 # Tic Tac Toe Web Application
 
-This project is developed as part of my Web Development Internship at Prodigy Infotech.
-
 It is an interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ---
